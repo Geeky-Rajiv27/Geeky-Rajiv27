@@ -4,7 +4,7 @@
 
 🌱 I’ve completed Python and NumPy, and I’m currently learning Pandas.
 
-💻 I also know HTML, CSS, and JavaScript.
+💻 I also know HTML, CSS, C/C++, python, numpy, panda , vercel, arduino IDE and JavaScript.
 
 🤖 I’m deeply interested in Robotics and IoT projects, and love building things that solve real-life problems using technology.
 
